@@ -75,13 +75,5 @@ public class AdminPage extends Library {
 		
 	}
 	
-	//search employee
-	public void searchempname() {
-		Empname.sendKeys("steve");
-		
-	}
 	
-	
-	
-
 }

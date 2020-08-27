@@ -41,14 +41,6 @@ public class SeleniumUtilities extends Library {
 		
 	}
 	
-	/*
-	 * public void dropdown(String selectedvalue, WebElement element) { 
-	 * Select select = new Select(element); 
-	 * select.selectByVisibleText(selectedvalue);
-	 * 
-	 * 
-	 * }
-	 */
 	public void quit() {
 		driver.close();
 		

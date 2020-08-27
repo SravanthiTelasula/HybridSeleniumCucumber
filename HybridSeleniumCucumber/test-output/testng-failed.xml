@@ -5,7 +5,6 @@
     <classes>
       <class name="com.testCase.AdminTestCase">
         <methods>
-          <include name="close"/>
           <include name="stratUp"/>
           <include name="adminclick"/>
         </methods>
